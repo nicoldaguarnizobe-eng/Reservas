@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31370"
+  },
+  "id_cliente": 1,
+  "nombre": "Laura Gómez",
+  "telefono": "3104582176",
+  "correo": "laura.gomez92@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31371"
+  },
+  "id_cliente": 2,
+  "nombre": "Carlos Pérez",
+  "telefono": "3156721840",
+  "correo": "carlos.perez15@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31372"
+  },
+  "id_cliente": 3,
+  "nombre": "Ana Rodríguez",
+  "telefono": "3008154267",
+  "correo": "ana.rodriguez28@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31373"
+  },
+  "id_cliente": 4,
+  "nombre": "Sophie Rodríguez",
+  "telefono": "3129045813",
+  "correo": "sophie.rodriguez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31374"
+  },
+  "id_cliente": 5,
+  "nombre": "Mariana Torres",
+  "telefono": "3207146852",
+  "correo": "mariana.torres17@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31375"
+  },
+  "id_cliente": 6,
+  "nombre": "Daniela Martínez",
+  "telefono": "3116259084",
+  "correo": "daniela.martinez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31376"
+  },
+  "id_cliente": 7,
+  "nombre": "Andrés Felipe Rojas",
+  "telefono": "3018745629",
+  "correo": "andres.rojas91@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31377"
+  },
+  "id_cliente": 8,
+  "nombre": "Valentina Castro",
+  "telefono": "3165408271",
+  "correo": "valentina.castro@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31378"
+  },
+  "id_cliente": 9,
+  "nombre": "Samuel Herrera",
+  "telefono": "3147290836",
+  "correo": "samuel.herrera@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31379"
+  },
+  "id_cliente": 10,
+  "nombre": "Camila Moreno",
+  "telefono": "3026184759",
+  "correo": "camila.moreno23@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3137a"
+  },
+  "id_cliente": 11,
+  "nombre": "Juan David Díaz",
+  "telefono": "3184527906",
+  "correo": "juandiaz@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3137b"
+  },
+  "id_cliente": 12,
+  "nombre": "Isabella Ramírez",
+  "telefono": "3109264815",
+  "correo": "isabella.ramirez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3137c"
+  },
+  "id_cliente": 13,
+  "nombre": "Sebastián López",
+  "telefono": "3135802947",
+  "correo": "sebastian.lopez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3137d"
+  },
+  "id_cliente": 14,
+  "nombre": "Natalia Fernández",
+  "telefono": "3208461753",
+  "correo": "natalia.fernandez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3137e"
+  },
+  "id_cliente": 15,
+  "nombre": "David Martínez",
+  "telefono": "3005748291",
+  "correo": "david.martinez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3137f"
+  },
+  "id_cliente": 16,
+  "nombre": "Luisa Fernanda Ruiz",
+  "telefono": "3158036274",
+  "correo": "luisa.ruiz@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31380"
+  },
+  "id_cliente": 17,
+  "nombre": "Mateo García",
+  "telefono": "3114705826",
+  "correo": "mateo.garcia@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31381"
+  },
+  "id_cliente": 18,
+  "nombre": "Sara Jiménez",
+  "telefono": "3216584072",
+  "correo": "sara.jimenez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31382"
+  },
+  "id_cliente": 19,
+  "nombre": "Nicolás Vargas",
+  "telefono": "3172049865",
+  "correo": "nicolas.vargas@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31383"
+  },
+  "id_cliente": 20,
+  "nombre": "Paula Sánchez",
+  "telefono": "3148602739",
+  "correo": "paula.sanchez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31384"
+  },
+  "id_cliente": 21,
+  "nombre": "Felipe Ramírez",
+  "telefono": "3027461859",
+  "correo": "felipe.ramirez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31385"
+  },
+  "id_cliente": 22,
+  "nombre": "Manuela Ortiz",
+  "telefono": "3105839264",
+  "correo": "manuela.ortiz@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31386"
+  },
+  "id_cliente": 23,
+  "nombre": "Daniel Castro",
+  "telefono": "3167824509",
+  "correo": "daniel.castro@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31387"
+  },
+  "id_cliente": 24,
+  "nombre": "Gabriela Romero",
+  "telefono": "3205918374",
+  "correo": "gabriela.romero@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31388"
+  },
+  "id_cliente": 25,
+  "nombre": "Alejandro Morales",
+  "telefono": "3137284605",
+  "correo": "alejandro.morales@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31389"
+  },
+  "id_cliente": 26,
+  "nombre": "Juliana Reyes",
+  "telefono": "3015968247",
+  "correo": "juliana.reyes@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3138a"
+  },
+  "id_cliente": 27,
+  "nombre": "Miguel Ángel Silva",
+  "telefono": "3152479608",
+  "correo": "miguel.silva@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3138b"
+  },
+  "id_cliente": 28,
+  "nombre": "María Camila León",
+  "telefono": "3186037514",
+  "correo": "mariacamila.leon@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3138c"
+  },
+  "id_cliente": 29,
+  "nombre": "Esteban Torres",
+  "telefono": "3128450963",
+  "correo": "esteban.torres@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3138d"
+  },
+  "id_cliente": 30,
+  "nombre": "Sofía Martínez",
+  "telefono": "3009472816",
+  "correo": "sofia.martinez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3138e"
+  },
+  "id_cliente": 31,
+  "nombre": "Diego Hernández",
+  "telefono": "3176509284",
+  "correo": "diego.hernandez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc3138f"
+  },
+  "id_cliente": 32,
+  "nombre": "Valeria Rojas",
+  "telefono": "3102847659",
+  "correo": "valeria.rojas@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31390"
+  },
+  "id_cliente": 33,
+  "nombre": "Jorge Ramírez",
+  "telefono": "3149276038",
+  "correo": "jorge.ramirez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31391"
+  },
+  "id_cliente": 34,
+  "nombre": "Andrea Castillo",
+  "telefono": "3204681597",
+  "correo": "andrea.castillo@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31392"
+  },
+  "id_cliente": 35,
+  "nombre": "Kevin Moreno",
+  "telefono": "3017284596",
+  "correo": "kevin.moreno@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31393"
+  },
+  "id_cliente": 36,
+  "nombre": "Tatiana Pérez",
+  "telefono": "3169052837",
+  "correo": "tatiana.perez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31394"
+  },
+  "id_cliente": 37,
+  "nombre": "Oscar González",
+  "telefono": "3136472085",
+  "correo": "oscar.gonzalez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31395"
+  },
+  "id_cliente": 38,
+  "nombre": "Melissa Díaz",
+  "telefono": "3152869740",
+  "correo": "melissa.diaz@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31396"
+  },
+  "id_cliente": 39,
+  "nombre": "Cristian Herrera",
+  "telefono": "3024598176",
+  "correo": "cristian.herrera@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6b05e4469624c242bcc31397"
+  },
+  "id_cliente": 40,
+  "nombre": "Diana López",
+  "telefono": "3185724069",
+  "correo": "diana.lopez@gmail.com"
+}]

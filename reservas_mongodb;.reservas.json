@@ -1,0 +1,520 @@
+[{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8174"
+  },
+  "id_reserva": 1,
+  "id_cliente": 1,
+  "id_mesa": 1,
+  "fecha": "2026-11-24",
+  "hora_inicio": "12:00",
+  "hora_fin": "13:30",
+  "cantidad_personas": 1,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8175"
+  },
+  "id_reserva": 2,
+  "id_cliente": 8,
+  "id_mesa": 2,
+  "fecha": "2026-11-24",
+  "hora_inicio": "12:30",
+  "hora_fin": "14:00",
+  "cantidad_personas": 3,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8176"
+  },
+  "id_reserva": 3,
+  "id_cliente": 15,
+  "id_mesa": 3,
+  "fecha": "2026-11-25",
+  "hora_inicio": "13:00",
+  "hora_fin": "14:30",
+  "cantidad_personas": 4,
+  "estado": "PENDIENTE"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8177"
+  },
+  "id_reserva": 4,
+  "id_cliente": 22,
+  "id_mesa": 4,
+  "fecha": "2026-11-25",
+  "hora_inicio": "14:00",
+  "hora_fin": "15:30",
+  "cantidad_personas": 6,
+  "estado": "CANCELADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8178"
+  },
+  "id_reserva": 5,
+  "id_cliente": 29,
+  "id_mesa": 5,
+  "fecha": "2026-11-26",
+  "hora_inicio": "17:00",
+  "hora_fin": "19:00",
+  "cantidad_personas": 1,
+  "estado": "FINALIZADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8179"
+  },
+  "id_reserva": 6,
+  "id_cliente": 36,
+  "id_mesa": 6,
+  "fecha": "2026-11-26",
+  "hora_inicio": "18:00",
+  "hora_fin": "20:00",
+  "cantidad_personas": 4,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe817a"
+  },
+  "id_reserva": 7,
+  "id_cliente": 3,
+  "id_mesa": 7,
+  "fecha": "2026-11-27",
+  "hora_inicio": "18:30",
+  "hora_fin": "20:30",
+  "cantidad_personas": 2,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe817b"
+  },
+  "id_reserva": 8,
+  "id_cliente": 10,
+  "id_mesa": 8,
+  "fecha": "2026-11-27",
+  "hora_inicio": "19:00",
+  "hora_fin": "21:00",
+  "cantidad_personas": 6,
+  "estado": "PENDIENTE"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe817c"
+  },
+  "id_reserva": 9,
+  "id_cliente": 17,
+  "id_mesa": 9,
+  "fecha": "2026-11-28",
+  "hora_inicio": "19:30",
+  "hora_fin": "21:30",
+  "cantidad_personas": 1,
+  "estado": "CANCELADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe817d"
+  },
+  "id_reserva": 10,
+  "id_cliente": 24,
+  "id_mesa": 10,
+  "fecha": "2026-11-28",
+  "hora_inicio": "20:00",
+  "hora_fin": "22:00",
+  "cantidad_personas": 2,
+  "estado": "FINALIZADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe817e"
+  },
+  "id_reserva": 11,
+  "id_cliente": 31,
+  "id_mesa": 11,
+  "fecha": "2026-11-29",
+  "hora_inicio": "12:00",
+  "hora_fin": "13:30",
+  "cantidad_personas": 3,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe817f"
+  },
+  "id_reserva": 12,
+  "id_cliente": 38,
+  "id_mesa": 12,
+  "fecha": "2026-11-29",
+  "hora_inicio": "12:30",
+  "hora_fin": "14:00",
+  "cantidad_personas": 6,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8180"
+  },
+  "id_reserva": 13,
+  "id_cliente": 5,
+  "id_mesa": 13,
+  "fecha": "2026-11-30",
+  "hora_inicio": "13:00",
+  "hora_fin": "14:30",
+  "cantidad_personas": 1,
+  "estado": "PENDIENTE"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8181"
+  },
+  "id_reserva": 14,
+  "id_cliente": 12,
+  "id_mesa": 14,
+  "fecha": "2026-11-30",
+  "hora_inicio": "14:00",
+  "hora_fin": "15:30",
+  "cantidad_personas": 3,
+  "estado": "CANCELADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8182"
+  },
+  "id_reserva": 15,
+  "id_cliente": 19,
+  "id_mesa": 15,
+  "fecha": "2026-12-01",
+  "hora_inicio": "17:00",
+  "hora_fin": "19:00",
+  "cantidad_personas": 4,
+  "estado": "FINALIZADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8183"
+  },
+  "id_reserva": 16,
+  "id_cliente": 26,
+  "id_mesa": 16,
+  "fecha": "2026-12-01",
+  "hora_inicio": "18:00",
+  "hora_fin": "20:00",
+  "cantidad_personas": 6,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8184"
+  },
+  "id_reserva": 17,
+  "id_cliente": 33,
+  "id_mesa": 17,
+  "fecha": "2026-12-02",
+  "hora_inicio": "18:30",
+  "hora_fin": "20:30",
+  "cantidad_personas": 1,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8185"
+  },
+  "id_reserva": 18,
+  "id_cliente": 40,
+  "id_mesa": 18,
+  "fecha": "2026-12-02",
+  "hora_inicio": "19:00",
+  "hora_fin": "21:00",
+  "cantidad_personas": 4,
+  "estado": "PENDIENTE"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8186"
+  },
+  "id_reserva": 19,
+  "id_cliente": 7,
+  "id_mesa": 19,
+  "fecha": "2026-12-03",
+  "hora_inicio": "19:30",
+  "hora_fin": "21:30",
+  "cantidad_personas": 2,
+  "estado": "CANCELADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8187"
+  },
+  "id_reserva": 20,
+  "id_cliente": 14,
+  "id_mesa": 20,
+  "fecha": "2026-12-03",
+  "hora_inicio": "20:00",
+  "hora_fin": "22:00",
+  "cantidad_personas": 6,
+  "estado": "FINALIZADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8188"
+  },
+  "id_reserva": 21,
+  "id_cliente": 21,
+  "id_mesa": 21,
+  "fecha": "2026-12-04",
+  "hora_inicio": "12:00",
+  "hora_fin": "13:30",
+  "cantidad_personas": 1,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8189"
+  },
+  "id_reserva": 22,
+  "id_cliente": 28,
+  "id_mesa": 22,
+  "fecha": "2026-12-04",
+  "hora_inicio": "12:30",
+  "hora_fin": "14:00",
+  "cantidad_personas": 2,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe818a"
+  },
+  "id_reserva": 23,
+  "id_cliente": 35,
+  "id_mesa": 23,
+  "fecha": "2026-12-05",
+  "hora_inicio": "13:00",
+  "hora_fin": "14:30",
+  "cantidad_personas": 3,
+  "estado": "PENDIENTE"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe818b"
+  },
+  "id_reserva": 24,
+  "id_cliente": 2,
+  "id_mesa": 24,
+  "fecha": "2026-12-05",
+  "hora_inicio": "14:00",
+  "hora_fin": "15:30",
+  "cantidad_personas": 6,
+  "estado": "CANCELADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe818c"
+  },
+  "id_reserva": 25,
+  "id_cliente": 9,
+  "id_mesa": 25,
+  "fecha": "2026-12-06",
+  "hora_inicio": "17:00",
+  "hora_fin": "19:00",
+  "cantidad_personas": 1,
+  "estado": "FINALIZADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe818d"
+  },
+  "id_reserva": 26,
+  "id_cliente": 16,
+  "id_mesa": 26,
+  "fecha": "2026-12-06",
+  "hora_inicio": "18:00",
+  "hora_fin": "20:00",
+  "cantidad_personas": 3,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe818e"
+  },
+  "id_reserva": 27,
+  "id_cliente": 23,
+  "id_mesa": 27,
+  "fecha": "2026-12-07",
+  "hora_inicio": "18:30",
+  "hora_fin": "20:30",
+  "cantidad_personas": 4,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe818f"
+  },
+  "id_reserva": 28,
+  "id_cliente": 30,
+  "id_mesa": 28,
+  "fecha": "2026-12-07",
+  "hora_inicio": "19:00",
+  "hora_fin": "21:00",
+  "cantidad_personas": 6,
+  "estado": "PENDIENTE"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8190"
+  },
+  "id_reserva": 29,
+  "id_cliente": 37,
+  "id_mesa": 29,
+  "fecha": "2026-12-08",
+  "hora_inicio": "19:30",
+  "hora_fin": "21:30",
+  "cantidad_personas": 1,
+  "estado": "CANCELADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8191"
+  },
+  "id_reserva": 30,
+  "id_cliente": 4,
+  "id_mesa": 30,
+  "fecha": "2026-12-08",
+  "hora_inicio": "20:00",
+  "hora_fin": "22:00",
+  "cantidad_personas": 4,
+  "estado": "FINALIZADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8192"
+  },
+  "id_reserva": 31,
+  "id_cliente": 11,
+  "id_mesa": 31,
+  "fecha": "2026-12-09",
+  "hora_inicio": "12:00",
+  "hora_fin": "13:30",
+  "cantidad_personas": 2,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8193"
+  },
+  "id_reserva": 32,
+  "id_cliente": 18,
+  "id_mesa": 32,
+  "fecha": "2026-12-09",
+  "hora_inicio": "12:30",
+  "hora_fin": "14:00",
+  "cantidad_personas": 6,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8194"
+  },
+  "id_reserva": 33,
+  "id_cliente": 25,
+  "id_mesa": 33,
+  "fecha": "2026-12-10",
+  "hora_inicio": "13:00",
+  "hora_fin": "14:30",
+  "cantidad_personas": 1,
+  "estado": "PENDIENTE"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8195"
+  },
+  "id_reserva": 34,
+  "id_cliente": 32,
+  "id_mesa": 34,
+  "fecha": "2026-12-10",
+  "hora_inicio": "14:00",
+  "hora_fin": "15:30",
+  "cantidad_personas": 2,
+  "estado": "CANCELADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8196"
+  },
+  "id_reserva": 35,
+  "id_cliente": 39,
+  "id_mesa": 35,
+  "fecha": "2026-12-11",
+  "hora_inicio": "17:00",
+  "hora_fin": "19:00",
+  "cantidad_personas": 3,
+  "estado": "FINALIZADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8197"
+  },
+  "id_reserva": 36,
+  "id_cliente": 6,
+  "id_mesa": 36,
+  "fecha": "2026-12-11",
+  "hora_inicio": "18:00",
+  "hora_fin": "20:00",
+  "cantidad_personas": 6,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8198"
+  },
+  "id_reserva": 37,
+  "id_cliente": 13,
+  "id_mesa": 37,
+  "fecha": "2026-12-12",
+  "hora_inicio": "18:30",
+  "hora_fin": "20:30",
+  "cantidad_personas": 1,
+  "estado": "CONFIRMADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe8199"
+  },
+  "id_reserva": 38,
+  "id_cliente": 20,
+  "id_mesa": 38,
+  "fecha": "2026-12-12",
+  "hora_inicio": "19:00",
+  "hora_fin": "21:00",
+  "cantidad_personas": 3,
+  "estado": "PENDIENTE"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe819a"
+  },
+  "id_reserva": 39,
+  "id_cliente": 27,
+  "id_mesa": 39,
+  "fecha": "2026-12-13",
+  "hora_inicio": "19:30",
+  "hora_fin": "21:30",
+  "cantidad_personas": 4,
+  "estado": "CANCELADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e4e8ef0e9a5d1dbe819b"
+  },
+  "id_reserva": 40,
+  "id_cliente": 34,
+  "id_mesa": 40,
+  "fecha": "2026-12-13",
+  "hora_inicio": "20:00",
+  "hora_fin": "22:00",
+  "cantidad_personas": 6,
+  "estado": "FINALIZADA"
+}]

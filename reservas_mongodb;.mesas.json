@@ -1,0 +1,400 @@
+[{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bd5"
+  },
+  "id_mesa": 1,
+  "id_restaurante": 1,
+  "numero": 1,
+  "capacidad": 2,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bd6"
+  },
+  "id_mesa": 2,
+  "id_restaurante": 1,
+  "numero": 2,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bd7"
+  },
+  "id_mesa": 3,
+  "id_restaurante": 1,
+  "numero": 3,
+  "capacidad": 4,
+  "estado": "RESERVADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bd8"
+  },
+  "id_mesa": 4,
+  "id_restaurante": 1,
+  "numero": 4,
+  "capacidad": 6,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bd9"
+  },
+  "id_mesa": 5,
+  "id_restaurante": 2,
+  "numero": 1,
+  "capacidad": 2,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bda"
+  },
+  "id_mesa": 6,
+  "id_restaurante": 2,
+  "numero": 2,
+  "capacidad": 4,
+  "estado": "RESERVADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bdb"
+  },
+  "id_mesa": 7,
+  "id_restaurante": 2,
+  "numero": 3,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bdc"
+  },
+  "id_mesa": 8,
+  "id_restaurante": 2,
+  "numero": 4,
+  "capacidad": 6,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bdd"
+  },
+  "id_mesa": 9,
+  "id_restaurante": 3,
+  "numero": 1,
+  "capacidad": 2,
+  "estado": "RESERVADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bde"
+  },
+  "id_mesa": 10,
+  "id_restaurante": 3,
+  "numero": 2,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bdf"
+  },
+  "id_mesa": 11,
+  "id_restaurante": 3,
+  "numero": 3,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905be0"
+  },
+  "id_mesa": 12,
+  "id_restaurante": 3,
+  "numero": 4,
+  "capacidad": 6,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905be1"
+  },
+  "id_mesa": 13,
+  "id_restaurante": 4,
+  "numero": 1,
+  "capacidad": 2,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905be2"
+  },
+  "id_mesa": 14,
+  "id_restaurante": 4,
+  "numero": 2,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905be3"
+  },
+  "id_mesa": 15,
+  "id_restaurante": 4,
+  "numero": 3,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905be4"
+  },
+  "id_mesa": 16,
+  "id_restaurante": 4,
+  "numero": 4,
+  "capacidad": 6,
+  "estado": "RESERVADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905be5"
+  },
+  "id_mesa": 17,
+  "id_restaurante": 5,
+  "numero": 1,
+  "capacidad": 2,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905be6"
+  },
+  "id_mesa": 18,
+  "id_restaurante": 5,
+  "numero": 2,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905be7"
+  },
+  "id_mesa": 19,
+  "id_restaurante": 5,
+  "numero": 3,
+  "capacidad": 4,
+  "estado": "RESERVADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905be8"
+  },
+  "id_mesa": 20,
+  "id_restaurante": 5,
+  "numero": 4,
+  "capacidad": 6,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905be9"
+  },
+  "id_mesa": 21,
+  "id_restaurante": 6,
+  "numero": 1,
+  "capacidad": 2,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bea"
+  },
+  "id_mesa": 22,
+  "id_restaurante": 6,
+  "numero": 2,
+  "capacidad": 4,
+  "estado": "RESERVADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905beb"
+  },
+  "id_mesa": 23,
+  "id_restaurante": 6,
+  "numero": 3,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bec"
+  },
+  "id_mesa": 24,
+  "id_restaurante": 6,
+  "numero": 4,
+  "capacidad": 6,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bed"
+  },
+  "id_mesa": 25,
+  "id_restaurante": 7,
+  "numero": 1,
+  "capacidad": 2,
+  "estado": "RESERVADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bee"
+  },
+  "id_mesa": 26,
+  "id_restaurante": 7,
+  "numero": 2,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bef"
+  },
+  "id_mesa": 27,
+  "id_restaurante": 7,
+  "numero": 3,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bf0"
+  },
+  "id_mesa": 28,
+  "id_restaurante": 7,
+  "numero": 4,
+  "capacidad": 6,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bf1"
+  },
+  "id_mesa": 29,
+  "id_restaurante": 8,
+  "numero": 1,
+  "capacidad": 2,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bf2"
+  },
+  "id_mesa": 30,
+  "id_restaurante": 8,
+  "numero": 2,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bf3"
+  },
+  "id_mesa": 31,
+  "id_restaurante": 8,
+  "numero": 3,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bf4"
+  },
+  "id_mesa": 32,
+  "id_restaurante": 8,
+  "numero": 4,
+  "capacidad": 6,
+  "estado": "RESERVADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bf5"
+  },
+  "id_mesa": 33,
+  "id_restaurante": 9,
+  "numero": 1,
+  "capacidad": 2,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bf6"
+  },
+  "id_mesa": 34,
+  "id_restaurante": 9,
+  "numero": 2,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bf7"
+  },
+  "id_mesa": 35,
+  "id_restaurante": 9,
+  "numero": 3,
+  "capacidad": 4,
+  "estado": "RESERVADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bf8"
+  },
+  "id_mesa": 36,
+  "id_restaurante": 9,
+  "numero": 4,
+  "capacidad": 6,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bf9"
+  },
+  "id_mesa": 37,
+  "id_restaurante": 10,
+  "numero": 1,
+  "capacidad": 2,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bfa"
+  },
+  "id_mesa": 38,
+  "id_restaurante": 10,
+  "numero": 2,
+  "capacidad": 4,
+  "estado": "RESERVADA"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bfb"
+  },
+  "id_mesa": 39,
+  "id_restaurante": 10,
+  "numero": 3,
+  "capacidad": 4,
+  "estado": "DISPONIBLE"
+},
+{
+  "_id": {
+    "$oid": "6b05e49c966cb7325e905bfc"
+  },
+  "id_mesa": 40,
+  "id_restaurante": 10,
+  "numero": 4,
+  "capacidad": 6,
+  "estado": "DISPONIBLE"
+}]
